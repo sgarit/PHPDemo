@@ -12,7 +12,7 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
     mysqli_query($conn,$query);
 } else
 {
-    echo "Error";
+    echo "Errorrrr";
 }
 ?>
 
